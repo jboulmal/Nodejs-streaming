@@ -1,2 +1,3 @@
 # Nodejs-streaming
+Media streaming from Node.js server to all browsers using intermediary recording on file approch.
 Done but not yet pushed.....
